@@ -1,6 +1,7 @@
 # Crowdfunding_ETL
-project 2 VBU bootcamp
+project 2 VU bootcamp - 
 
+We Created an ETL pipeline using Python and Pandas to store and organize crowdfunding data. Regex methods and python dictionary methods were both used to extract and transform the data. Once data is transformed we created CSV files for each of the tables and uploaded them to Postgres database. 
 
 ## sources: 
 https://stackoverflow.com/questions/15891038/change-column-type-in-pandas
